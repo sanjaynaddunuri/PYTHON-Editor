@@ -15,14 +15,11 @@
 - 🎨 **Color Customization** – Choose editor background and text colors.
 - 🌐 **Built-in Help** – One-click access to Google and Python.org for quick learning.
 
-## 🖼️ Screenshots
-
-> *(Add screenshots of the UI here to visually demonstrate the interface and features.)*
-
 ## 📌 Requirements
 
 - Python 3.x
 - Platform: **Windows only**
+- After Downloading the zip file ,please change the path settings of icons and images.
 
 ## 📂 How to Run
 
